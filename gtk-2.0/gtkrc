@@ -2,7 +2,7 @@ gtk_color_scheme = "bg_color:#000000
 fg_color:#55af66
 base_color:#000000
 text_color:#55af66
-selected_bg_color:#005555
+selected_bg_color:#2E5E37
 selected_fg_color:#77dd88
 tooltip_bg_color:#000000
 tooltip_fg_color:#55af66"
@@ -63,7 +63,9 @@ style "scroll"
 {
   bg[NORMAL]      = "#55af66"
   fg[NORMAL]      = "#000000"
-  GtkScrollbar::slider-width        = 7
+  GtkScrollbar::slider-width         = 4
+  GtkScrollbar::has-backward-stepper = 0
+  GtkScrollbar::has-forward-stepper  = 0
 }
 class "GtkRange"	style "scroll"
 
@@ -116,7 +118,8 @@ class "GtkTreeView"   style "menu"
 
 style "sep"
 {
-  fg[NORMAL]      = "#00aaaa"
+  #fg[NORMAL]      = "#00aaaa"
+  fg[NORMAL]      = "#2E5E37"
 }
 class "GtkSeparatorMenuItem" style "sep"
 class "GtkSeparatorToolItem" style "sep"
