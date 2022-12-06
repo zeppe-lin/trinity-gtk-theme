@@ -29,6 +29,11 @@ The original sources can be downloaded from:
      Godan TAZ (ro1ri) work
 
 
+Dependencies
+------------
+- gtk-engines (HighContrast engine)
+
+
 Preview
 -------
 ![Preview](https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/preview.png)
