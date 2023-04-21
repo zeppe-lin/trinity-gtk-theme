@@ -11,5 +11,8 @@ gtk.gresource: gtk.gresource.xml
  
 clean:
 	rm -f gtk-3.0/gtk.gresource.xml gtk-3.0/gtk.gresource
- 
-.PHONY: gtk.gresource.xml clean
+
+dist: clean
+	git archive --format=tar.gz -o ${DIST}.tar.gz --prefix=${DIST}/ HEAD
+
+.PHONY: gtk.gresource.xml clean dist
