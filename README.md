@@ -34,19 +34,33 @@ The original sources can be downloaded from:
 
 REQUIREMENTS
 ------------
-* gtk-engines (HighContrast engine)
+**Required**:
+- gtk-engines (HighContrast engine)
+**Optional**:
+- `glib-compile-resources(1)` from GLib
 
 
 PREVIEW
 -------
-![Preview](https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/preview.png)
+![PREVIEW][1]
 
 
 INSTALL
 -------
-Copy `gtk-2.0`, `gtk-3.0` and `index.theme` to
-`/usr/share/themes/trinity` for system-wide setup, or copy them to
-`~/.themes/trinity` for per-user setup.
+**System-wide**:
+The shell command `make install` should install this package.  See
+`config.mk` file for configuration parameters.
+
+**Locally**:
+To install this theme as user locally, run
+```sh
+make PREFIX= DATADIR=~/.themes install
+```
+
+Note that some programs requires `gtk.resource.xml` and
+`gtk.gresource` files for gtk-3.0 theme.  If you come across this case
+and want to create them, just run `make` and reinstall the package.
+Be sure you have `glib-compile-resources(1)` for that.
 
 
 LICENSE
@@ -55,3 +69,5 @@ trinity-gtk-theme is licensed through the GNU General Public License
 v3 or later <https://gnu.org/licenses/gpl.html>.
 Read the COPYING file for copying conditions.
 Read the COPYRIGHT file for copyright notices.
+
+[1]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/preview.png
