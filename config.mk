@@ -5,3 +5,4 @@ DIST      = ${NAME}-${VERSION}
 
 # paths
 PREFIX    = /usr/local
+DATADIR   = ${PREFIX}/share/themes
