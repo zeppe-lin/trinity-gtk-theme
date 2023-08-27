@@ -1,5 +1,7 @@
 .POSIX:
 
+include config.mk
+
 DATA = gtk-2.0 gtk-3.0 index.theme
 
 all: gtk.gresource
