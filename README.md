@@ -11,25 +11,35 @@ Colorscheme have been modified both in css and png images.  Added
 generation of gresource file and index.theme.
 
 The original sources can be downloaded from:
-1. https://www.pling.com/p/1079661/
+1. https://github.com/Elbullazul/Trinity
+2. https://github.com/Elbullazul/Trinity/archive/c58796d/Trinity-c58796d.zip
 
-   Original GTK-2.0 theme.
+HISTORY
+-------
+0. `Terminal Envy`
+    - Theme: [Terminal Envy](https://www.gnome-look.org/p/1015529)
+    - Author: Brian Assaf (delvalle26)
 
-2. https://www.pling.com/p/1318110/
-3. https://github.com/Elbullazul/Trinity
-4. https://github.com/Elbullazul/Trinity/archive/c58796d/Trinity-c58796d.zip
+    This is where it all started.
 
-   Migrated to GTK-3.0 by Christian Medel (Elbullazul), using Azurra
-   Framework and some components from iOS, Blackout and System 4
-   themes.
+1. `trinity`
+    - Theme: [trinity](https://www.xfce-look.org/p/1016197)
+    - Author: Joe Schwentker (jschwentker)
 
-5. https://www.xfce-look.org/p/1016197
+    The first apparition of GTK2-only `trinity`.
 
-   Joe Schwentker (jschwentker) work
+2. `trinity_green`
+    - Theme: [trinity_green](https://www.pling.com/p/1079661/)
+    - Author: Godan TAZ (ro1ri)
 
-6. https://www.pling.com/p/1079661/
+    GTK-2.0-only adaptation of `Terminal Envy` and `trinity`.
 
-   Godan TAZ (ro1ri) work
+3. `Trinity`
+    - Theme: [Trinity](https://www.pling.com/p/1318110/)
+    - Author: Christian Medel (Elbullazul)
+
+    GTK-3.0 migration using Azurra Framework and some components
+    from iOS, Blackout and System 4 themes.
 
 
 REQUIREMENTS
