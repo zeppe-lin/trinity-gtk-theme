@@ -26,7 +26,8 @@ HISTORY
     - Theme: [trinity](https://www.xfce-look.org/p/1016197)
     - Author: Joe Schwentker (jschwentker)
 
-    The first apparition of GTK2-only `trinity`.
+    The first apparition of GTK2-only `trinity`, based on remaining
+    unknown `slimline` theme and `Terminal Envy`.
 
 2. `trinity_green`
     - Theme: [trinity_green](https://www.pling.com/p/1079661/)
