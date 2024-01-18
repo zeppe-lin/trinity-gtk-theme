@@ -21,6 +21,9 @@ HISTORY
     - Author: Brian Assaf (delvalle26)
 
     This is where it all started.
+    ![Terminal_Envy1][1]
+    ![Terminal_Envy2][2]
+    ![Terminal_Envy3][3]
 
 1. `trinity`
     - Theme: [trinity](https://www.xfce-look.org/p/1016197)
@@ -28,12 +31,16 @@ HISTORY
 
     The first apparition of GTK2-only `trinity`, based on remaining
     unknown `slimline` theme and `Terminal Envy`.
+    ![trinity1][4]
+    ![trinity2][5]
+    ![trinity3][6]
 
 2. `trinity_green`
     - Theme: [trinity_green](https://www.pling.com/p/1079661/)
     - Author: Godan TAZ (ro1ri)
 
     GTK-2.0-only adaptation of `Terminal Envy` and `trinity`.
+    ![trinity_green][7]
 
 3. `Trinity`
     - Theme: [Trinity](https://www.pling.com/p/1318110/)
@@ -41,6 +48,7 @@ HISTORY
 
     GTK-3.0 migration of `trinity_green` using Azurra Framework
     and some components from iOS, Blackout and System 4 themes.
+    ![Trinity][8]
 
 
 REQUIREMENTS
@@ -53,7 +61,7 @@ REQUIREMENTS
 
 PREVIEW
 -------
-![PREVIEW][1]
+![PREVIEW][9]
 
 
 INSTALL
@@ -81,4 +89,12 @@ v3 or later <https://gnu.org/licenses/gpl.html>.
 Read the COPYING file for copying conditions.
 Read the COPYRIGHT file for copyright notices.
 
-[1]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/preview.png
+[1]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-1.png
+[2]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-2.png
+[3]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-3.png
+[4]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_118906-1.png
+[5]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_118906-2.png
+[6]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_118906-3.png
+[7]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_green_140528-1.jpg
+[8]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Trinity_1318110-1.png
+[9]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity-gtk-theme-1.png
