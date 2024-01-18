@@ -38,8 +38,8 @@ HISTORY
     - Theme: [Trinity](https://www.pling.com/p/1318110/)
     - Author: Christian Medel (Elbullazul)
 
-    GTK-3.0 migration using Azurra Framework and some components
-    from iOS, Blackout and System 4 themes.
+    GTK-3.0 migration of `trinity_green` using Azurra Framework
+    and some components from iOS, Blackout and System 4 themes.
 
 
 REQUIREMENTS
