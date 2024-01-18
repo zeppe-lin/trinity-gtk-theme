@@ -19,6 +19,7 @@ HISTORY
 0. `Terminal Envy`
     - Theme: [Terminal Envy](https://www.gnome-look.org/p/1015529)
     - Author: Brian Assaf (delvalle26)
+    - Date: 2009
 
     This is where it all started.
     ![Terminal_Envy1][1]
@@ -28,6 +29,7 @@ HISTORY
 1. `trinity`
     - Theme: [trinity](https://www.xfce-look.org/p/1016197)
     - Author: Joe Schwentker (jschwentker)
+    - Date: 2010
 
     The first apparition of GTK2-only `trinity`, based on remaining
     unknown `slimline` theme and `Terminal Envy`.
@@ -38,6 +40,7 @@ HISTORY
 2. `trinity_green`
     - Theme: [trinity_green](https://www.pling.com/p/1079661/)
     - Author: Godan TAZ (ro1ri)
+    - Date: 2011
 
     GTK-2.0-only adaptation of `Terminal Envy` and `trinity`.
     ![trinity_green][7]
@@ -45,6 +48,7 @@ HISTORY
 3. `Trinity`
     - Theme: [Trinity](https://www.pling.com/p/1318110/)
     - Author: Christian Medel (Elbullazul)
+    - Date: 2019
 
     GTK-3.0 migration of `trinity_green` using Azurra Framework
     and some components from iOS, Blackout and System 4 themes.
