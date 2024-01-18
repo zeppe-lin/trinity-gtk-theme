@@ -1,6 +1,6 @@
 OVERVIEW
 --------
-This directory contains *trinity-gtk-theme*, a GTK-2.0/3.0 theme for
+This directory contains **trinity-gtk-theme**, a GTK-2.0/3.0 theme for
 GTK+ toolkit, based on the @jschwentker, @ro1ri and @elbullazul
 trinity themes.
 
