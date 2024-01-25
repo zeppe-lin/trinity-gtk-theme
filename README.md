@@ -14,6 +14,12 @@ The original sources can be downloaded from:
 1. https://github.com/Elbullazul/Trinity
 2. https://github.com/Elbullazul/Trinity/archive/c58796d/Trinity-c58796d.zip
 
+
+PREVIEW
+-------
+![PREVIEW][0]
+
+
 HISTORY
 -------
 0. `Terminal Envy`
@@ -63,11 +69,6 @@ REQUIREMENTS
 - `glib-compile-resources(1)` from GLib
 
 
-PREVIEW
--------
-![PREVIEW][9]
-
-
 INSTALL
 -------
 **System-wide**:
@@ -93,6 +94,7 @@ v3 or later <https://gnu.org/licenses/gpl.html>.
 Read the COPYING file for copying conditions.
 Read the COPYRIGHT file for copyright notices.
 
+[0]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity-gtk-theme-1.png
 [1]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-1.png
 [2]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-2.png
 [3]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Terminal_Envy_114171-3.png
@@ -101,4 +103,3 @@ Read the COPYRIGHT file for copyright notices.
 [6]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_118906-3.png
 [7]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity_green_140528-1.jpg
 [8]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/Trinity_1318110-1.png
-[9]: https://raw.githubusercontent.com/zeppe-lin/trinity-gtk-theme/master/screenshots/trinity-gtk-theme-1.png
