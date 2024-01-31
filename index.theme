@@ -1,7 +1,7 @@
 [X-Gnome-Metatheme]
-Name=Trinity GTK Theme
+Name=Trinity
 Encoding=UTF-8
-GtkTheme=Trinity GTK Theme
-IconTheme=Trinity Icon Theme
+GtkTheme=Trinity
+IconTheme=Trinity
 CursorTheme=
 CursorSize=
