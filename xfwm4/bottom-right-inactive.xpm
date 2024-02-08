@@ -1,0 +1,8 @@
+/* XPM */
+static char *bottom_right_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"1 1 1 1 ",
+"  c #008000",
+/* pixels */
+" "
+};
