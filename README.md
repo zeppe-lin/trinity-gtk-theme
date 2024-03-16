@@ -65,6 +65,7 @@ REQUIREMENTS
 ------------
 **Required**:
 - gtk-engines (HighContrast engine)
+
 **Optional**:
 - `glib-compile-resources(1)` from GLib
 
