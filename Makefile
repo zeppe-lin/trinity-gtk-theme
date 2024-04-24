@@ -2,7 +2,7 @@
 
 include config.mk
 
-DATA = gtk-2.0 gtk-3.0 index.theme
+DATA = gtk-2.0 gtk-3.0 index.theme xfwm4
 
 all: gtk.gresource
 
