@@ -1,6 +1,6 @@
 # project metadata
 NAME      = trinity-gtk-theme
-VERSION   = 1.0
+VERSION   = 1.1
 DIST      = ${NAME}-${VERSION}
 
 # paths
