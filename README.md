@@ -11,8 +11,8 @@ modified both in css and png images.  Added generation of gresource file and
 index.theme.
 
 The original sources can be downloaded from:
-1. https://github.com/Elbullazul/Trinity
-2. https://github.com/Elbullazul/Trinity/archive/c58796d/Trinity-c58796d.zip
+  1. https://github.com/Elbullazul/Trinity
+  2. https://github.com/Elbullazul/Trinity/archive/c58796d/Trinity-c58796d.zip
 
 
 PREVIEW
@@ -24,43 +24,43 @@ PREVIEW
 HISTORY
 =======
 
-0. `Terminal Envy`
-    - Theme: [Terminal Envy](https://www.gnome-look.org/p/1015529)
-    - Author: Brian Assaf (delvalle26)
-    - Date: 2009
+  0. `Terminal Envy`
+      - Theme: [Terminal Envy](https://www.gnome-look.org/p/1015529)
+      - Author: Brian Assaf (delvalle26)
+      - Date: 2009
 
-    This is where it all started.
-    ![Terminal_Envy1][1]
-    ![Terminal_Envy2][2]
-    ![Terminal_Envy3][3]
+      This is where it all started.
+      ![Terminal_Envy1][1]
+      ![Terminal_Envy2][2]
+      ![Terminal_Envy3][3]
 
-1. `trinity`
-    - Theme: [trinity](https://www.xfce-look.org/p/1016197)
-    - Author: Joe Schwentker (jschwentker)
-    - Date: 2010
+  1. `trinity`
+      - Theme: [trinity](https://www.xfce-look.org/p/1016197)
+      - Author: Joe Schwentker (jschwentker)
+      - Date: 2010
 
-    The first apparition of GTK2-only `trinity`, based on remaining
-    unknown `slimline` theme and `Terminal Envy`.
-    ![trinity1][4]
-    ![trinity2][5]
-    ![trinity3][6]
+      The first apparition of GTK2-only `trinity`, based on remaining
+      unknown `slimline` theme and `Terminal Envy`.
+      ![trinity1][4]
+      ![trinity2][5]
+      ![trinity3][6]
 
-2. `trinity_green`
-    - Theme: [trinity_green](https://www.pling.com/p/1079661/)
-    - Author: Godan TAZ (ro1ri)
-    - Date: 2011
+  2. `trinity_green`
+      - Theme: [trinity_green](https://www.pling.com/p/1079661/)
+      - Author: Godan TAZ (ro1ri)
+      - Date: 2011
 
-    GTK-2.0-only adaptation of `Terminal Envy` and `trinity`.
-    ![trinity_green][7]
+      GTK-2.0-only adaptation of `Terminal Envy` and `trinity`.
+      ![trinity_green][7]
 
-3. `Trinity`
-    - Theme: [Trinity](https://www.pling.com/p/1318110/)
-    - Author: Christian Medel (Elbullazul)
-    - Date: 2019
+  3. `Trinity`
+     - Theme: [Trinity](https://www.pling.com/p/1318110/)
+     - Author: Christian Medel (Elbullazul)
+     - Date: 2019
 
-    GTK-3.0 migration of `trinity_green` using Azurra Framework
-    and some components from iOS, Blackout and System 4 themes.
-    ![Trinity][8]
+     GTK-3.0 migration of `trinity_green` using Azurra Framework and some
+     components from iOS, Blackout and System 4 themes.
+     ![Trinity][8]
 
 
 REQUIREMENTS
@@ -68,11 +68,11 @@ REQUIREMENTS
 
 Required
 --------
-- gtk-engines (HighContrast engine)
+  * gtk-engines (HighContrast engine)
 
 Optional
 --------
-- `glib-compile-resources(1)` from GLib
+  * `glib-compile-resources(1)` from GLib
 
 
 INSTALL
