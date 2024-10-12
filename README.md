@@ -80,8 +80,9 @@ INSTALL
 
 System-wide
 -----------
-The shell command `make install` should install this package.  See `config.mk`
-file for configuration parameters.
+The shell command `make install` should install this package.
+
+See `config.mk` file for configuration parameters.
 
 Locally
 -------
