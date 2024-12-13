@@ -1,14 +1,15 @@
 OVERVIEW
 ========
 
-This directory contains **trinity-gtk-theme**, a GTK-2.0/3.0 theme for GTK+
-toolkit, based on the @jschwentker, @ro1ri and @elbullazul trinity themes.
+This directory contains **trinity-gtk-theme**, a GTK-2.0/3.0 theme for
+GTK+ toolkit, based on the @jschwentker, @ro1ri and @elbullazul trinity
+themes.
 
-This distribution is a fork of Christian Medel's (@elbullazul) Trinity as of
-commit c58796d (Thu Aug 15 2019).  Unnecessary Azurra Framework files have been
-removed.  Theme was modified for thin scrollbars.  Colorscheme have been
-modified both in css and png images.  Added generation of gresource file and
-index.theme.
+This distribution is a fork of Christian Medel's (@elbullazul) Trinity
+as of commit c58796d (Thu Aug 15 2019).  Unnecessary Azurra Framework
+files have been removed.  Theme was modified for thin scrollbars.
+Colorscheme have been modified both in css and png images.  Added
+generation of gresource file and index.theme.
 
 The original sources can be downloaded from:
   1. https://github.com/Elbullazul/Trinity
@@ -91,17 +92,17 @@ To install this theme as user locally, run
 make PREFIX= DATADIR=~/.themes install
 ```
 
-Note that some programs requires `gtk.resource.xml` and `gtk.gresource` files
-for gtk-3.0 theme.  If you come across this case and want to create them, just
-run `make` and reinstall the package.  Be sure you have
-`glib-compile-resources(1)` for that.
+Note that some programs requires `gtk.resource.xml` and `gtk.gresource`
+files for gtk-3.0 theme.  If you come across this case and want to
+create them, just run `make` and reinstall the package.  Be sure you
+have `glib-compile-resources(1)` for that.
 
 
 LICENSE
 =======
 
-trinity-gtk-theme is licensed through the GNU General Public License v3 or
-later <https://gnu.org/licenses/gpl.html>.
+trinity-gtk-theme is licensed through the GNU General Public License v3
+or later <https://gnu.org/licenses/gpl.html>.
 Read the COPYING file for copying conditions.
 Read the COPYRIGHT file for copyright notices.
 
