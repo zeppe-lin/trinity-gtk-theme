@@ -1,9 +1,9 @@
 OVERVIEW
 ========
 
-This directory contains **trinity-gtk-theme**, a GTK-2.0/3.0 theme for
-GTK+ toolkit, based on the @jschwentker, @ro1ri and @elbullazul trinity
-themes.
+This repository contains **trinity-gtk-theme**, a GTK-2.0/3.0 theme
+for GTK+ toolkit, based on the @jschwentker, @ro1ri, and @elbullazul
+trinity themes.
 
 This distribution is a fork of Christian Medel's (@elbullazul) Trinity
 as of commit c58796d (Thu Aug 15 2019).  Unnecessary Azurra Framework
